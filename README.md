@@ -1,2 +1,2 @@
 # Projector-ethernet-sync
-sync projector network using stream deck
+sync projector network python gui epson
